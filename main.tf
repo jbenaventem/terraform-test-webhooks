@@ -15,5 +15,5 @@ resource "random_pet" "generate_id" {
 
 resource "local_file" "comic" {
   filename = "./mis-comic.txt"
-  content  = "fone Bone-test02"
+  content  = "01 - Lejos de Boneville \n 02 - La gran carrera de Vacas"
 }

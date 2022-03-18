@@ -3,7 +3,7 @@ terraform {
     organization = "jbenaventem"
 
     workspaces {
-      name = "terraform-test-github-actions"
+      name = "terraform-test-workflows"
     }
   }
 }
